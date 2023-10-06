@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "936f1c7067728d16c362ba4fb93c17df78b5fd79",
+        "version" : "5.18.2"
+      }
+    },
+    {
+      "identity" : "waterfalllayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jinya/WaterfallLayout.git",
+      "state" : {
+        "revision" : "4ada125c5b8fc9c1755f4b5a03ce94f054b469d1",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
