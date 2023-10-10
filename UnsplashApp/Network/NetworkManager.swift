@@ -12,7 +12,7 @@ class NetworkManager {
     
     private var requestManager: RequestServiceing
     
-    lazy var page = 1
+    var page = 1
     
     func fetchImages(searchTerm: String, completion: @escaping (SearchResults?) -> ()) {
         requestManager.request(searchTerm: searchTerm, id: nil) { (data, error) in
