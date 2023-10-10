@@ -90,11 +90,10 @@
 		920318B62AD00BB200F023AC /* Support files */ = {
 			isa = PBXGroup;
 			children = (
-				92D978DE2AC9AED9001FBA63 /* LaunchScreen.storyboard */,
-				92D978D52AC9AED7001FBA63 /* SceneDelegate.swift */,
-				92D978D32AC9AED7001FBA63 /* AppDelegate.swift */,
 				92D978DC2AC9AED9001FBA63 /* Assets.xcassets */,
-				92D978E12AC9AED9001FBA63 /* Info.plist */,
+				92D978D32AC9AED7001FBA63 /* AppDelegate.swift */,
+				92D978D52AC9AED7001FBA63 /* SceneDelegate.swift */,
+				92D978DE2AC9AED9001FBA63 /* LaunchScreen.storyboard */,
 			);
 			path = "Support files";
 			sourceTree = "<group>";
@@ -124,6 +123,7 @@
 				92D978F82AC9BE7D001FBA63 /* Network */,
 				92D979152ACAD9F1001FBA63 /* Extensions */,
 				920318B62AD00BB200F023AC /* Support files */,
+				92D978E12AC9AED9001FBA63 /* Info.plist */,
 			);
 			path = UnsplashApp;
 			sourceTree = "<group>";
